@@ -41,7 +41,7 @@ Formulário estilizado com:
 
 ## 👩‍💻 Sobre mim
 
-**Camila Mendes** — Analista de Suporte Jr em transição para Desenvolvimento Web  
+**Camila Mendes** — Analista de Suporte Jr
 🎓 Estudando Engenharia de Software  
 🌐 [GitHub](https://github.com/camilamendes-dev)
 
