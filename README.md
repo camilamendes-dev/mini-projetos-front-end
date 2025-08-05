@@ -1,5 +1,3 @@
-# mini-projetos-front-end
-
 # Trilha de Aprendizado em Front-End 🚀
 
 Este repositório reúne meus mini projetos desenvolvidos enquanto estudo HTML, CSS e JavaScript.
